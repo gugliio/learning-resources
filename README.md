@@ -6,7 +6,7 @@ Whether you're just starting out or looking to deepen your knowledge, you'll fin
 
 ### 📚 What You'll Find Here
 
-- **Tutorials**: Step-by-step guides and walkthroughs on various programming languages and technologies.
+- [**Tutorials**](./tutorials/tutorials.md): Step-by-step guides and walkthroughs on various programming languages and technologies.
 
 - **Books**: A selection of recommended programming books for different skill levels.
 
@@ -15,8 +15,6 @@ Whether you're just starting out or looking to deepen your knowledge, you'll fin
 - **Videos**: Educational videos and playlists to visually enhance your learning experience.
 
 - [**Practice Problems**](./challenges/challenges.md): Challenges and exercises to test and improve your coding skills.
-
-- **Documentation**: Official documentation and cheat sheets for various programming languages and tools.
 
 - **Documentation**: Official documentation and cheat sheets for various programming languages and tools.
 
