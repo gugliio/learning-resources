@@ -11,3 +11,5 @@ Here you will find a collection of tutorials designed to help you test and impro
 - **[Go by example](https://gobyexample.com/)**: Go by Example is a hands-on introduction to Go using annotated example programs.
 
 - **[Go CI Lint](https://golangci-lint.run/)**: It runs linters in parallel, uses caching, supports YAML configuration, integrates with all major IDEs, and includes over a hundred linters.
+
+- **[Awesome Go](https://awesome-go.com/)**: List of golang resources.
