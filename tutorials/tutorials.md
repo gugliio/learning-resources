@@ -13,3 +13,5 @@ Here you will find a collection of tutorials designed to help you test and impro
 - **[Go CI Lint](https://golangci-lint.run/)**: It runs linters in parallel, uses caching, supports YAML configuration, integrates with all major IDEs, and includes over a hundred linters.
 
 - **[Awesome Go](https://awesome-go.com/)**: List of golang resources.
+
+- **[100 Go Mistakes and How to Avoid Them]** (https://100go.co/): This book covers a wide range of topics from concurrency and error handling to testing and code organization
